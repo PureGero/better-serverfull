@@ -1,6 +1,12 @@
 # better-serverfull
 
-LuckPerms integration 
+LuckPerms integration plugin for more efficient server full handling
+
+## Permissions
+
+```
+
+```
 
 ## Building
 
