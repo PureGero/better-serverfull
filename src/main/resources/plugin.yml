@@ -11,4 +11,4 @@ permissions:
   betterserverfull.bypass:
     default: op
   betterserverfull.priority:
-    default: op
+    default: false

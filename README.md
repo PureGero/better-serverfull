@@ -5,7 +5,11 @@ LuckPerms integration plugin for more efficient server full handling
 ## Permissions
 
 ```
+betterserverfull.bypass
+ - Bypass server limit and join even if the server is full
 
+betterserverfull.priority
+ - Priority access to joining first after a player leaves the server
 ```
 
 ## Building
