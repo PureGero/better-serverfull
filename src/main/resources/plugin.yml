@@ -1,0 +1,14 @@
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+main: ${project.groupId}.${project.name}Plugin
+author: PureGero
+website: https://github.com/PureGero/better-serverfull
+api-version: 1.20
+folia-supported: true
+dependencies: [LuckPerms]
+permissions:
+  betterserverfull.bypass:
+    default: op
+  betterserverfull.priority:
+    default: op
